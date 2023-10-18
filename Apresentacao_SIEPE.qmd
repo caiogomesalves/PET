@@ -1,0 +1,70 @@
+---
+title: "PET ESTATÍSTICA E PESQUISA APLICADA"
+subtitle: "APRENDIZADO PARA OS PETIANOS E AUXÍLIO À COMUNIDADE EXTERNA"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    incremental: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    logo: Imagens/logo-pet-azul-logo.png
+    footer: "PET-Estatística"
+---
+
+# O programa PET
+
+## Os pilares do PET
+
+- O Programa de Educação Tutorial (PET) atua baseado em três pilares principais:
+  - Pesquisa;
+  - Ensino;
+  - Extensão.
+- Tais pilares são indissosiáveis ao programa e servem de base para as atividades realizadas.
+
+## A pesquisa no PET-Estatística
+
+- O desenvolvimento/participação em pesquisa é atividade obrigatória para todos os membros do PET-Estatística;
+- A equipe de pesquisa é composta pelo Prof. Dr. Anderson Ara, tutor do PET, e são realizadas reuniões mensais de pesquisa.
+
+## As reuniões de pesquisa
+
+- Durante as reuniões, cada petiano apresenta as atualizações na pesquisa que está desenvolvendo/participando;
+- Além disso, são ministradas palestras, módulos, workshops que tenham como objetivo melhorar o desenvolvimento das pesquisas.
+
+# Objetivos
+
+## Geral
+
+- Promover o desenvolvimento de pesquisas pelos alunos do PET-Estatística.
+
+## Específicos
+
+- Fomentar a importância da pesquisa como força-motriz da Estatística;
+- Incitar a participação dos petianos em atividades de pesquisa como forma ativa de extensão;
+- Proporcionar aos alunos de Estatística a oportunidade de desenvolver pesquisa durante o curso.
+
+# Exemplos
+
+## Participação em congressos
+
+- Dois petianos (Paulo e Cristian) apresentaram suas pesquisas na **67ª RBras e 20º SEAGRO**, realizado entre 24-28 de julho, em Londrina;
+- Foram produzidos banners e os alunos os apresentaram de maneira presencial no congresso.
+
+## Pesquisas apresentadas
+
+- Pontos na NBA: Um estudo exploratório utilizando Dynamic Time Warping (DTW);
+- Ciência de Dados: uma descrição dos cursos de graduação em universidades brasileiras.
+
+## Mentoria PET-Engenharia Civil
+
+- Foi prestada mentoria estatística para petianas do PET-Engenharia Civil produzindo pesquisa em educação;
+- O objetivo da pesquisa era determinar o impacto da pandemia no desempenho acadêmico de estudantes de Engenharia Civil;
+- O artigo produzido foi apresentado no **51º Congresso Brasileiro de Educação em Engenharia - VI Simpósio Internacional de Educação em Engenharia**, realizado entre os dia 18-20 de setembro, no Rio de Janeiro.
+
+## Projetos futuros
+
+- Expansão da pesquisa realizada em conjunto com o PET-Engenharia Civil, de modo a englobar os demais cursos das Exatas;
+- Desenvolver pesquisa relacionada a Análise de Sobrevivência em parceria com o PET-Psicologia;
+- Dar continuidade aos temas de pesquisas individuais dos petianos.
