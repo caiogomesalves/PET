@@ -1,0 +1,43 @@
+---
+title: "Medidas Resumo"
+author: "PET-Estatística"
+format:
+  revealjs:
+    theme: dark
+    chalkboard: true
+    incremental: true
+---
+
+# Média
+
+## Média normal
+
+Temos que a fórmula para calcular a média (denomida $\bar{X}$) de $n$ valores é dada por:
+
+$$
+\bar{X}=\frac{\sum_{i=1}^{n}{X_i}}{n}
+$$
+
+## No R
+
+Qual a média dos seguintes valores: 1, 2.6, 4, 0, 3.4, 2?
+
+```{r, echo = T}
+# Somando e dividindo:
+(1 + 2.6 + 4 + 0 + 3.4 + 2)/6
+```
+
+. . .
+
+```{r, echo = T}
+# Aproveitando funções:
+dados <- c(1, 2.6, 4, 0, 3.4, 2)
+sum(dados)/length(dados)
+```
+
+. . .
+
+```{r, echo = T}
+# Função mean()
+mean(dados)
+```
